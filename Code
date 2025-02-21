@@ -1,0 +1,11 @@
+//This program will display some pieces of personal information
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Name: Wes Spaugh " << endl << "Location: 503 Devon Road, Moorestown, New Jersey, ZIP 08057" << endl << "Phone Number: I'll have to check" << endl << "Major: Engineering";
+    return 0;
+}
+//DO NOT USE THIS INFORMATION!!!!!! You don't know if I'm lying or not. HA!
